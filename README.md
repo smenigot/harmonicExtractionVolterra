@@ -1,4 +1,4 @@
-Harmonic Extraction with a Volterra Model 
+# Harmonic Extraction with a Volterra Model 
 
 This program makes possible the extraction of harmonics by a Volterra model (without subharmonics). A example is availabe in the file test.m. 
 
